@@ -1,2 +1,2 @@
-# pruebas
+# GithubClasesB
 pruebas clase git
